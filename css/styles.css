@@ -1,0 +1,14 @@
+*{
+    font-family: 'Courier New', Courier, monospace;
+    color: brown;
+}
+
+header{
+    width:100%;
+    text-align: right;
+}
+
+
+header li{
+    display: inline;
+}
